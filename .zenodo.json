@@ -1,0 +1,11 @@
+{
+  "title": "Orcet sealed cohort: deposit index and OpenTimestamps proofs (interim, 5 November 2026)",
+  "upload_type": "dataset",
+  "description": "Index of every prediction deposit made for the sealed prospective evaluation of Orcet, a model of individual roll-call votes in the French National Assembly, with the OpenTimestamps proof of each deposited file and the evaluation protocol. Published while the cohort is still running (it closes on 17 November 2026), so that every scored file is declared before the scores are known. The prediction files themselves are not included in this version.",
+  "creators": [
+    {"name": "Boussuge, Anselme", "affiliation": "Hémicycle", "orcid": "0009-0009-8260-2681"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["roll-call vote prediction", "prospective evaluation", "OpenTimestamps", "French National Assembly", "forecasting"],
+  "version": "1.0.0-interim"
+}
