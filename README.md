@@ -2,6 +2,8 @@
 
 This repository publishes the **index of every prediction deposit** made for the sealed prospective evaluation of Orcet, a model of individual roll-call votes in the French National Assembly, together with the **OpenTimestamps proofs** that anchor each deposited file in the Bitcoin blockchain.
 
+Archived on Zenodo: [doi:10.5281/zenodo.23974906](https://doi.org/10.5281/zenodo.23974906).
+
 It accompanies the working paper *Sealed, Timestamped Prospective Evaluation of Parliamentary Vote Prediction* (Anselme Boussuge, Hémicycle, ORCID [0009-0009-8260-2681](https://orcid.org/0009-0009-8260-2681)).
 
 ## Why publish the index now
